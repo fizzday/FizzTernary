@@ -1,0 +1,19 @@
+{
+    "name": "fizzday/fizzternary",
+    "description": "a ternary tree calculation for php (php实现的三叉树算法,33复制)",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fizz",
+            "email": "864759073@qq.com"
+        }
+    ],
+    "require": { },
+    "require-dev": { },
+    "autoload": {
+        "psr-4": {
+            "Fizzday\\FizzTernary\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
