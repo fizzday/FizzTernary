@@ -1,6 +1,11 @@
 <?php
 namespace Fizzday\FizzTernary;
 
+/**
+ * php实现的完全标准三叉树, 达到33复制的效果, 先来后到, 依次向后排列
+ * Class FizzTernary
+ * @package Fizzday\FizzTernary
+ */
 class FizzTernary
 {
     /**
